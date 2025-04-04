@@ -13,9 +13,9 @@
             <div class="container text-center">
                 <h1 class="error-code glitch mb-4">404</h1>
                 <h2 class="display-6 mb-3">32)(*@#</h2>
-                <p class="lead mb-5">Oops! Looks like this page got scrambled</p>
+                <p class="lead mb-5">Oops! Parece que algo deu errado em.</p>
                 <div class="d-flex justify-content-center gap-3">
-                    <a href="index.php" class="btn btn-primary">Go Home</a>                    
+                    <a href="index.php" class="btn btn-primary">Voltar</a>                    
                 </div>
         </div>
    </div>
